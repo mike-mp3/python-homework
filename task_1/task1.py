@@ -156,4 +156,4 @@ Humidity70 = list(
 )
 
 
-print(f'Города с влажностью > 70%: \n {Humidity70}')
+print(f'Города и даты с влажностью более 70%: \n {Humidity70}')
